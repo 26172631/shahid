@@ -1,2 +1,3 @@
 # shahid
-print("hello,word")
+print("Good morning")
+print ("my name is shahid")
